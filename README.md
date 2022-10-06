@@ -1,4 +1,4 @@
-# Newborns Weight Prediction
+# Newborns Weight Prediction and Classification
 *Note: This repository shares the pairwork project in fulfillment of the Programming class for Master of Data Science coursework.*
 
 ## RPubs 
