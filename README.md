@@ -15,5 +15,5 @@ The main goals of this project are intuitive. We are dealing with different task
 - Babies with **low birth weight** are those with less than 5.5 pounds. Large babies with a birthweight exceeding 8.8 pounds are categorized as **overweight**. Besides that, the baby is in the **normal birth weight** range.
 
 ## RPubs 
-The code scripts are translated as R Markdown documents in RStudio and shared on RPubs:\
+The code scripts and outcomes are translated as R Markdown documents in RStudio and shared on RPubs:\
 https://rpubs.com/s2003493/Birthweight-Analysis?fbclid=IwAR3yUR0axet3pAG5IQtNkzFXmZxbV8oicCm-BDOKw70XxdaTGfhJEmUTNNU
